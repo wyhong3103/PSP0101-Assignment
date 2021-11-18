@@ -12,10 +12,11 @@ This is just a small project that we have to build as a very beginner of this co
 -passlib (yes , we also added the password hashing functionality)
 
 ## Admin ID & Password
-ID: yk
-	kahtir
-	cl
-	thanir
+ID:
+1.yk
+2.kahtir
+3.cl
+4.thanir
 Password: 123
 
 In case if you wondered what are the passwords for all of the users out there, it's 123 as well
