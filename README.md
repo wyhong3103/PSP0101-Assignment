@@ -75,4 +75,4 @@ and sorted by date and time, containing users’ name, ID, RSVP,
 phone and risk group.<br>
 
 ## Side Note
-I do not done the GUI development part, I am responsible for the functionality part.
+Please see it in a friendly manner, this is really our first program development! Althought we know that , program developing should not done in python, but we're required to , in this semester!
