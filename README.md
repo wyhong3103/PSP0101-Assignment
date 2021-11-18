@@ -11,6 +11,11 @@ This is just a small project that we have to build as a very beginner of this co
 -datetime
 -passlib (yes , we also added the password hashing functionality)
 
+##How to start this program?
+1.Run mainmenu.py <br>
+2.And start enjoy using it :) <br>
+table.py is used to generate the sqlite blank table, if you wondered
+
 ## Admin ID & Password
 ID:
 1.yk <br>
