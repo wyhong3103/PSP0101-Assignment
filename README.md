@@ -13,10 +13,10 @@ This is just a small project that we have to build as a very beginner of this co
 
 ## Admin ID & Password
 ID:
-1.yk
-2.kahtir
-3.cl
-4.thanir
+1.yk <br>
+2.kahtir<br>
+3.cl<br>
+4.thanir<br>
 Password: 123
 
 In case if you wondered what are the passwords for all of the users out there, it's 123 as well
@@ -25,45 +25,45 @@ In case if you wondered what are the passwords for all of the users out there, i
 
 ### Advanced features
 Advanced Features Included:
--Graphical User Interfaces
--Database as storage
--Password Encryption
+-Graphical User Interfaces<br>
+-Database as storage<br>
+-Password Encryption<br>
 -Auto Assignment (auto assigning to closest vaccination center to 
 user according to post code & auto checking for the slot availability 
-of the hours)
--Auto categorization
-Priority:
-5 - Health Care Workers
-4 - Community Services
-3 - Energy, Food
-2 - Transportation
-1 - Students / Unemployed
-Risk:
-High Risk:
--Health Care Workers
--Senior Citizen who is older or equal to 60
--People with medical problems
-Low Risk:
--The rest
--Date and time validation (for assigning appointment)
--Input validation
+of the hours)<br>
+-Auto categorization<br>
+Priority:<br>
+5 - Health Care Workers<br>
+4 - Community Services<br>
+3 - Energy, Food<br>
+2 - Transportation<br>
+1 - Students / Unemployed<br>
+Risk:<br>
+High Risk:<br>
+-Health Care Workers<br>
+-Senior Citizen who is older or equal to 60<br>
+-People with medical problems<br>
+Low Risk:<br>
+-The rest<br>
+-Date and time validation (for assigning appointment)<br>
+-Input validation<br>
 
 ### Basic features
 
 #### User’s features
--Sign up an account with their personal information 
--Login to update medical history
--Login to check their appointment date, time and location. 
--Login to R.S.V.P to the assigned appointment
+-Sign up an account with their personal information <br>
+-Login to update medical history<br>
+-Login to check their appointment date, time and location. <br>
+-Login to R.S.V.P to the assigned appointment<br>
 
 #### Admin’s Feature
--All categorization is done by the auto categorization feature
--Create vaccination centers: location and capacity per hour 
+-All categorization is done by the auto categorization feature<br>
+-Create vaccination centers: location and capacity per hour <br>
 -Set appointment for public users by assigning vaccination center 
-with specific date and time. 
+with specific date and time. <br>
 -Generate the list of assigned appointments for a vaccination center 
 and sorted by date and time, containing users’ name, ID, RSVP, 
-phone and risk group.
+phone and risk group.<br>
 
 ## Side Note
 I do not done the GUI development part, I am responsible for the functionality part.
