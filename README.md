@@ -1,9 +1,13 @@
 # Program Design Assignment
 
-So apparently, this is our very first project/assignment for the first semester, all of these are done in Python, and a few external modules of it. 
----
+So apparently, this is our very first project/assignment for the first semester, all of these are done in Python, and a few external modules of it. This project is firstly done in text-based UI, and only done in a week or two (not including the thinking part). And then, my teammate decided to develop the GUI part for extra markss $$$.
+
+## Part Done By Me
+-Most of the functionality part, interacting with sqlite, passlib, datetime modules
+-Debugging the code
+
 ## Disclaimer
-This is just a small project that we have to build as a very beginner of this coding journey, we've done it in a month and few weeks, spent most of the time developing(and learning how to develop it) the GUI and the functionality itself . Any of the codes you seen here were not optimized at all, it's just straight up what comes up to our mind , and we just hard coded it. There might be some bugs out there that we did not notice or known at all, but we did the best we could to get rid of all of the bugs that we are aware of. Also, there might be some mistakes in language wise, like the word choice we're using and all , so yea...
+This is just a small project that we have to build as a very beginner of this coding journey, we've done it in a month and few weeks, spent most of the time developing(and learning how to develop it) the GUI and the functionality itself . Any of the codes you seen here were not optimized at all, it's just straight up what comes up to our mind , and we just hard coded it. There might be some bugs out there that we did not notice or known at all, but we did the best we could to get rid of all of the bugs that we are aware of. Also, there might be some mistakes in language wise, like the word choice we're using and all , so yea... AND FILE ORGANIZING IS BAD, YEA WE DO AWARE OF THAT!
 
 ## Modules you need to install to use this program (some of them are built in modules)
 -tkinter
