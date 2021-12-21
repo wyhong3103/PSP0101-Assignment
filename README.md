@@ -4,6 +4,7 @@ So apparently, this is our very first project/assignment for the first semester,
 
 ## Part Done By Me
 -Most of the functionality part, interacting with sqlite, passlib, datetime modules
+<br>
 -Debugging the code
 
 ## Disclaimer
