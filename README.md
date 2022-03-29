@@ -77,3 +77,4 @@ phone and risk group.<br>
 
 ## Side Note
 Please see it in a friendly manner, this is really our first program development! Althought we know that , program developing should not done in python, but we're required to , in this semester!
+#idk what the hell am i talking about lol
